@@ -1,16 +1,59 @@
-<h1 align="center">Hi 👋, I'm Karthik G</h1>
-<h3 align="center"></h3>
+# Hi, I'm Karthik 👋  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthi1953&label=Profile%20views&color=0e75b6&style=flat" alt="karthi1953" /> </p>
+I'm a B.Tech student in **Artificial Intelligence & Data Science** who enjoys building real-world web applications and learning how AI fits into practical products.
 
-- 📫 How to reach me **karthikk200502@gmail.com**
+I focus on writing clean code, understanding systems end-to-end, and continuously improving as a developer.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@krthkchannel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="krthk" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🚀 What I Do
+- Build full-stack web applications
+- Integrate AI features into real products
+- Learn by building, breaking, and fixing things
+- Improve problem-solving and system design skills
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthi1953&show_icons=true&locale=en&layout=compact" alt="karthi1953" /></p>
+---
+
+## 🛠️ Tech Stack
+**Languages & Frameworks**
+- Java
+- JavaScript
+- React
+- HTML, CSS
+- Spring Boot
+- Express.js
+
+**Tools**
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Supabase  
+
+---
+
+## 📌 Featured Projects
+### 🔹 AI Email Replier – Chrome Extension  
+A Chrome extension that integrates directly into Gmail to generate context-aware email replies using AI.  
+**Tech:** React, Spring Boot, REST APIs  
+
+### 🔹 AI Resume Analyzer  
+A web application that analyzes resumes, suggests improvements, and provides ATS compatibility insights.  
+**Focus:** Practical AI integration, usability, and clean architecture  
+
+---
+
+## 🎯 Currently Working On
+- Strengthening full-stack fundamentals  
+- Learning better backend design patterns  
+- Improving DSA and problem-solving  
+- Exploring practical AI use-cases  
+
+---
+
+## 📫 Connect With Me
+- **GitHub:** https://github.com/karthi1953  
+- **LeetCode:** https://leetcode.com/u/karthi1953  
+
+---
+
+⭐ *Always open to learning, collaboration, and meaningful projects.*

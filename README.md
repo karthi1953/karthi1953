@@ -1,4 +1,4 @@
-# Hi, I'm Karthik 👋  
+# Hi, I'm Karthik G 👋  
 
 I'm a B.Tech student in **Artificial Intelligence & Data Science** who enjoys building real-world web applications and learning how AI fits into practical products.
 
@@ -47,12 +47,6 @@ A web application that analyzes resumes, suggests improvements, and provides ATS
 - Learning better backend design patterns  
 - Improving DSA and problem-solving  
 - Exploring practical AI use-cases  
-
----
-
-## 📫 Connect With Me
-- **GitHub:** https://github.com/karthi1953  
-- **LeetCode:** https://leetcode.com/u/karthi1953  
 
 ---
 

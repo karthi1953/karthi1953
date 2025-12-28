@@ -2,8 +2,6 @@
 
 I'm a B.Tech student in **Artificial Intelligence & Data Science** who enjoys building real-world web applications and learning how AI fits into practical products.
 
-I focus on writing clean code, understanding systems end-to-end, and continuously improving as a developer.
-
 ---
 
 ## 🚀 What I Do

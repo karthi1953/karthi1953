@@ -38,6 +38,10 @@ A Chrome extension that integrates directly into Gmail to generate context-aware
 A web application that analyzes resumes, suggests improvements, and provides ATS compatibility insights.  
 **Focus:** Practical AI integration, usability, and clean architecture  
 
+### 🔹 Content Enhancement System – Full Stack Project
+Developed a full-stack system to scrape and enhance blog articles using AI. Built RESTful CRUD APIs with Node.js and MongoDB, integrated Google search and web scraping for reference content, and used Gemini AI to generate improved articles with citations. Created a responsive React frontend and deployed the application using Vercel and Render.
+
+
 ---
 
 ## 🎯 Currently Working On

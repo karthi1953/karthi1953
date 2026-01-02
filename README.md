@@ -20,12 +20,12 @@ I'm a B.Tech student in **Artificial Intelligence & Data Science** who enjoys bu
 - HTML, CSS
 - Spring Boot
 - Express.js
+- Mongoose (MongoDB)
 
 **Tools**
 - Git & GitHub  
 - VS Code  
-- Postman  
-- Supabase  
+- Postman    
 
 ---
 

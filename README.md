@@ -20,7 +20,7 @@ I'm a B.Tech student in **Artificial Intelligence & Data Science**.
 - HTML, CSS
 - Spring Boot
 - Express.js
-- Mongoose (MongoDB)
+- Mongoose ODM (MongoDB)
 
 **Tools**
 - Git & GitHub  

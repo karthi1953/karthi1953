@@ -34,7 +34,7 @@ I'm a B.Tech student in **Artificial Intelligence & Data Science**.
 A Chrome extension that integrates directly into Gmail to generate context-aware email replies using AI.  
 **Tech:** React, Spring Boot, REST APIs  
 
-### 🔹 AI Resume Analyzer  
+### 🔹 Resume Analyzer  
 A web application that analyzes resumes, suggests improvements, and provides ATS compatibility insights.  
 **Focus:** Practical AI integration, usability, and clean architecture  
 
@@ -45,7 +45,7 @@ Developed a full-stack system to scrape and enhance blog articles using AI. Buil
 ---
 
 ## 🎯 Currently Working On
-- Strengthening full-stack fundamentals  
+- Strengthening full-stack skills  
 - Learning better backend design patterns  
 - Improving DSA and problem-solving  
 - Exploring practical AI use-cases  

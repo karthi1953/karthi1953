@@ -1,4 +1,4 @@
-# Hi, I'm Karthik G 👋  
+# Hi, I'm Karthik👋  
 
 I'm a B.Tech student in **Artificial Intelligence & Data Science**.
 

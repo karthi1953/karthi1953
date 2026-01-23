@@ -14,12 +14,12 @@ I'm a B.Tech student in **Artificial Intelligence & Data Science**.
 
 ## 🛠️ Tech Stack
 **Languages & Frameworks**
-- Java
 - JavaScript
+- Java
 - React
 - HTML, CSS
-- Spring Boot
 - Express.js
+- Spring Boot
 - Mongoose ODM (MongoDB)
 
 **Tools**

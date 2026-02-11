@@ -17,7 +17,7 @@ I'm a B.Tech student in **Artificial Intelligence & Data Science**.
 - JavaScript
 - Java
 - React
-- HTML, CSS
+- HTML, CSS (BootStrap)
 - Express.js
 - Spring Boot
 - Mongoose ODM (MongoDB)
